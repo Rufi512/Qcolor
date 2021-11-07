@@ -41,5 +41,10 @@ optional arguments:
   -v, --verbose         Get verbosity
   
 ```
+#### Dependencies
+
+```
+pip install sty colorthief inquirer
+```
 
 ##### is necessary restart qtile to see changes!

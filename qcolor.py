@@ -4,8 +4,6 @@ import argparse
 import os
 import inquirer
 import json
-from pprint import pprint
-from pathlib import Path
 from colorthief import ColorThief
 from sty import fg, bg, ef, rs
 from sty import Style, RgbFg
